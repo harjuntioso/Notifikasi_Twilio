@@ -1,4 +1,4 @@
-This is simple notification feature for whatsapp massanger notification use Twilio 
+This is simple example notification feature for whatsapp massanger notification use Twilio 
 
 #Add this to your .env and fill with yours credential
 TWILIO_SID=''
